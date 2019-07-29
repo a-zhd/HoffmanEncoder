@@ -1,4 +1,4 @@
-package ru.azhd.spring.exaple.eurikademo;
+package ru.azhd.algs;
 
 import java.util.*;
 import java.util.stream.Collectors;
